@@ -1,0 +1,2 @@
+# BSAITY
+BrainScanAI thankyou page
